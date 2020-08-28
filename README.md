@@ -95,8 +95,7 @@ EDUARDO DA SILVA RODRIGUES
 11. :white_check_mark: [M05A11] – Testando o RAID1
 12. :white_check_mark: [M05A12] – Simulando defeito no RAID1
 13. :white_check_mark: [M05A13] – Desfazendo o RAID1
-14. :white_check_mark: [Linux] M05A14 – Criando RAID5
-
+14. :white_check_mark: [M05A14] – Criando RAID5
 
 ### Informações sobre o curso:
 
