@@ -2,7 +2,7 @@
  Estudonauta - Curso em Vídeo - Prof Ricardo Pinheiro
   
  <p align="center">
-  <img src=https://github.com/eduardodsr/Linux/edit/master/logo.png?raw=true" alt="imagem" width="200px" />
+  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="200px" />
  </p>
       
 ## Índice
