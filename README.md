@@ -4,8 +4,14 @@
  <p align="center">
   <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="200px" />
  </p>
-      
+
+### Repositório de Controle de Atividades do Curso de Linux
+
+# EDUARDO DA SILVA RODRIGUES 
+
+
 ## Índice
+
 ### Linux – Módulo 00
 0. :white_check_mark: [M00A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M00A01] – Material de Estudos
@@ -21,3 +27,19 @@
 11. :white_large_square: [M00A11] – Instalando o Debian em uma máquina virtual
 12. :white_large_square: [M00A12] – Encerramento do módulo 
 
+
+### Informações sobre o curso:
+
+``` link: ```  https://www.estudonauta.com/
+
+``` link: ```  https://www.cursoemvideo.com/
+
+
+### Validação do Certificado Online
+
+# EDUARDO DA SILVA RODRIGUES 
+
+:bookmark_tabs:  ``` link: ```   https://www.estudonauta.com/certificate-template/?certificate_code=
+
+
+### End
