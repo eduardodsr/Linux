@@ -1,5 +1,9 @@
+<p align="center">
+
 # Linux
  Estudonauta - Curso em Vídeo - Prof Ricardo Pinheiro
+
+</p>
   
  <p align="center">
   <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" />
