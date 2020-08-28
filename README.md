@@ -5,9 +5,9 @@
   <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" />
  </p>
 
-### Repositório de Controle de Atividades do Curso de Linux
+### Repositório de Controle de Atividades do Curso de Linux:
 
-# EDUARDO DA SILVA RODRIGUES 
+EDUARDO DA SILVA RODRIGUES 
 
 
 ## Índice
