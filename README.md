@@ -24,8 +24,24 @@ EDUARDO DA SILVA RODRIGUES
 8. :white_check_mark: [M00A08] – Preparando pendrive com Debian
 9. :white_check_mark: [M00A09] – Instalação completa do Debian
 10. :white_check_mark: [M00A10] – Instalando o Debian com dual boot
-11. :white_large_square: [M00A11] – Instalando o Debian em uma máquina virtual
-12. :white_large_square: [M00A12] – Encerramento do módulo 
+11. :white_check_mark: [M00A11] – Instalando o Debian em uma máquina virtual
+12. :white_check_mark: [M00A12] – Encerramento do módulo 
+
+### Linux – Módulo 01
+
+0. :white_check_mark: [M01A00] – Curso de LinuxM01A01 – Interface do Debian
+1. :white_check_mark: [M01A02] – Sistemas de arquivos
+2. :white_check_mark: [M01A03] – Dispositivos
+3. :white_check_mark: [M01A04] – Terminais
+4. :white_check_mark: [M01A05] – Interpretadores de Comandos
+5. :white_check_mark: [M01A06] – Sintaxe dos Comandos
+6. :white_check_mark: [M01A07] – Histórico dos Comandos Usados
+7. :white_check_mark: [M01A08] – Caminhos absoluto e relativo
+8. :white_check_mark: [M01A09] – Comando Ls
+9. :white_check_mark: [M01A10] – Referência global
+10. :white_check_mark: [M01A11] – Comandos de manipulação de diretórios
+11. :white_check_mark: [M01A12] – Comandos de Manipulação de Arquivos
+12. :white_check_mark: [M01A13] – Comandos de Manipulação de Arquivos (Parte 2)
 
 
 ### Informações sobre o curso:
