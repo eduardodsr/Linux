@@ -6,29 +6,31 @@
 
 ## Índice (Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES)
 
-### Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
+# Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
 
 ### 2 Conceitos Fundamentais
-- 2.1 Onde o Linux pode ser usado? - Curso Linux #01
-- 2.2 De onde veio o Linux? O que é software livre? - Curso Linux #02
-- 2.3 Licenças e Liberdades: é importante saber - Curso Linux #03
+- 2.1 :white_check_mark: Onde o Linux pode ser usado? - Curso Linux #01
+- 2.2 :white_check_mark: De onde veio o Linux? O que é software livre? - Curso Linux #02
+- 2.3 :white_check_mark: Licenças e Liberdades: é importante saber - Curso Linux #03
 
 ### 3 Instalando o Linux
-- 3.1 Instalando Linux Mint - Curso Linux #04
-- 3.2 Pendrive Linux com Etcher - Curso Linux #04.2
+- 3.1 :white_check_mark: Instalando Linux Mint - Curso Linux #04
+- 3.2 :white_check_mark: Pendrive Linux com Etcher - Curso Linux #04.2
 
 ### 4 Ambiente do Linux Mint
-- 4.1 Conhecendo o Ambiente do Linux Mint - Curso Linux #05
+- 4.1 :white_check_mark: Conhecendo o Ambiente do Linux Mint - Curso Linux #05
 
 ### 5 Instalando novos programas no Linux
-- 5.1 Instalação básica de programas no Linux - Curso Linux #06.1
-- 5.2 Instalação avançada de programas no Linux - Curso Linux #06.2
+- 5.1 :white_check_mark: Instalação básica de programas no Linux - Curso Linux #06.1
+- 5.2 :white_check_mark: Instalação avançada de programas no Linux - Curso Linux #06.2
 
 ### 6 Comandos de Terminal do Linux
-- 6.1 Terminal no Linux - Introdução - Curso Linux #07.1
-- 6.2 Terminal no Linux - Manipulando diretórios - Curso Linux #07.2
-- 6.3 Terminal Linux - Referência Global - Curso Linux #08
-- 6.4 Manipulação de Arquivos com Linux - Curso Linux #09
+- 6.1 :white_check_mark: Terminal no Linux - Introdução - Curso Linux #07.1
+- 6.2 :white_check_mark: Terminal no Linux - Manipulando diretórios - Curso Linux #07.2
+- 6.3 :white_check_mark: Terminal Linux - Referência Global - Curso Linux #08
+- 6.4 :white_check_mark: Manipulação de Arquivos com Linux - Curso Linux #09
+
+# Estudonauta - Curso de Linux
 
 ### Estudonauta - Linux – Módulo 00
 0. :white_check_mark: [M00A00] – Apresentação do Curso de Linux
