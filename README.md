@@ -6,7 +6,32 @@
 
 ## Índice (Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES)
 
-### Linux – Módulo 00
+### Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
+
+### 1. Curso de Linux - Primeiros Passos - Trailer
+- 2. Conceitos Fundamentais
+- 2.1 Onde o Linux pode ser usado? - Curso Linux #01
+- 2.2 De onde veio o Linux? O que é software livre? - Curso Linux #02
+- 2.3 Licenças e Liberdades: é importante saber - Curso Linux #03
+
+### 3 Instalando o Linux
+- 3.1 Instalando Linux Mint - Curso Linux #04
+- 3.2 Pendrive Linux com Etcher - Curso Linux #04.2
+
+### 4 Ambiente do Linux Mint
+- 4.1 Conhecendo o Ambiente do Linux Mint - Curso Linux #05
+
+### 5 Instalando novos programas no Linux
+- 5.1 Instalação básica de programas no Linux - Curso Linux #06.1
+- 5.2 Instalação avançada de programas no Linux - Curso Linux #06.2
+
+### 6 Comandos de Terminal do Linux
+- 6.1 Terminal no Linux - Introdução - Curso Linux #07.1
+- 6.2 Terminal no Linux - Manipulando diretórios - Curso Linux #07.2
+- 6.3 Terminal Linux - Referência Global - Curso Linux #08
+- 6.4 Manipulação de Arquivos com Linux - Curso Linux #09
+
+### Estudonauta - Linux – Módulo 00
 0. :white_check_mark: [M00A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M00A01] – Material de Estudos
 2. :white_check_mark: [M00A02] – História do Linux (Parte 1)
@@ -21,7 +46,7 @@
 11. :white_check_mark: [M00A11] – Instalando o Debian em uma máquina virtual
 12. :white_check_mark: [M00A12] – Encerramento do módulo 
 
-### Linux – Módulo 01
+### Estudonauta - Linux – Módulo 01
 
 0. :white_check_mark: [M01A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M01A01] – Interface do Debian
@@ -38,7 +63,7 @@
 13. :white_check_mark: [M01A12] – Comandos de Manipulação de Arquivos
 13. :white_check_mark: [M01A13] – Comandos de Manipulação de Arquivos (Parte 2)
 
-### Linux – Módulo 03
+### Estudonauta - Linux – Módulo 03
 
 0. :white_check_mark: [M03A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M03A01] – Configurando Permissões (Parte 1)
@@ -61,7 +86,7 @@
 18. :white_check_mark: [M03A18] – Testando Xampp
 19. :white_check_mark: [M03A19] – Fim do módulo
 
-### Linux – Módulo 04
+### Estudonauta - Linux – Módulo 04
 
 0. :white_check_mark: [M04A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M04A01] – Comandos Diversos
@@ -75,7 +100,7 @@
 9. :white_check_mark: [M04A10] – Criando Contas
 10. :white_check_mark: [M04A11] – Manipulando Contas
 
-### Linux – Módulo 05
+### Estudonauta - Linux – Módulo 05
 
 1. :white_check_mark: [M05A01] – Obtendo mais ajuda
 2. :white_check_mark: [M05A02] – Personalização do ambiente
