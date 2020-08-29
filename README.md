@@ -9,9 +9,9 @@
 ## Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
 
 ### 2 Conceitos Fundamentais
-2.1 :white_check_mark: Onde o Linux pode ser usado? - Curso Linux #01
-2.2 :white_check_mark: De onde veio o Linux? O que é software livre? - Curso Linux #02
-2.3 :white_check_mark: Licenças e Liberdades: é importante saber - Curso Linux #03
+2.1. :white_check_mark: Onde o Linux pode ser usado? - Curso Linux #01
+2.2. :white_check_mark: De onde veio o Linux? O que é software livre? - Curso Linux #02
+2.3. :white_check_mark: Licenças e Liberdades: é importante saber - Curso Linux #03
 
 ### 3 Instalando o Linux
 - 3.1 :white_check_mark: Instalando Linux Mint - Curso Linux #04
