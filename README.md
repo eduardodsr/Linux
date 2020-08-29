@@ -4,7 +4,7 @@
  
  <p align="center">  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" /> </p> 
 
-## Índice (Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES)
+## Índice (Checklist do Curso de Linux) | EDUARDO DA SILVA RODRIGUES
 
 ## Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
 
