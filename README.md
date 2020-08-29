@@ -2,9 +2,9 @@
 
 <h3><p align="center"><strong>Estudonauta - Curso em Vídeo - Prof Gustavo Guanabara & Ricardo Pinheiro</strong></p></h3> 
  
- <p align="center">  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" />
- <strong>Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES</strong>
- </p> 
+ <p align="center">  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" /> </p> 
+
+### Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES
 
 ## Índice
 
