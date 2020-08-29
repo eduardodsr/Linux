@@ -1,13 +1,10 @@
 # Linux
 
-<h3><p align="center"><strong>Estudonauta - Curso em Vídeo - Prof Gustavo Guanabara & Ricardo Pinheiro</strong>
-                      <br><strong> Checklist do Curso de Linux | Aluno: EDUARDO DA SILVA RODRIGUES </strong></p></h3> 
+<h3><p align="center"><strong>Estudonauta - Curso em Vídeo - Prof Gustavo Guanabara & Ricardo Pinheiro</strong></p></h3> 
  
  <p align="center">  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" /> </p> 
 
-<h3><p align="center"><strong> Checklist do Curso de Linux | Aluno: EDUARDO DA SILVA RODRIGUES </strong></p></h3> 
-
-## Índice
+## Índice (Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES)
 
 ### Linux – Módulo 00
 0. :white_check_mark: [M00A00] – Apresentação do Curso de Linux
