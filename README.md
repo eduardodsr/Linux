@@ -6,7 +6,7 @@
 
 ## Índice (Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES)
 
-# Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
+## Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
 
 ### 2 Conceitos Fundamentais
 - 2.1 :white_check_mark: Onde o Linux pode ser usado? - Curso Linux #01
@@ -30,7 +30,7 @@
 - 6.3 :white_check_mark: Terminal Linux - Referência Global - Curso Linux #08
 - 6.4 :white_check_mark: Manipulação de Arquivos com Linux - Curso Linux #09
 
-# Estudonauta - Curso de Linux
+## Estudonauta - Curso de Linux
 
 ### Estudonauta - Linux – Módulo 00
 0. :white_check_mark: [M00A00] – Apresentação do Curso de Linux
