@@ -30,23 +30,24 @@ EDUARDO DA SILVA RODRIGUES
 
 ### Linux – Módulo 01
 
-0. :white_check_mark: [M01A00] – Curso de LinuxM01A01 – Interface do Debian
-1. :white_check_mark: [M01A02] – Sistemas de arquivos
-2. :white_check_mark: [M01A03] – Dispositivos
-3. :white_check_mark: [M01A04] – Terminais
-4. :white_check_mark: [M01A05] – Interpretadores de Comandos
-5. :white_check_mark: [M01A06] – Sintaxe dos Comandos
-6. :white_check_mark: [M01A07] – Histórico dos Comandos Usados
-7. :white_check_mark: [M01A08] – Caminhos absoluto e relativo
-8. :white_check_mark: [M01A09] – Comando Ls
-9. :white_check_mark: [M01A10] – Referência global
-10. :white_check_mark: [M01A11] – Comandos de manipulação de diretórios
-11. :white_check_mark: [M01A12] – Comandos de Manipulação de Arquivos
-12. :white_check_mark: [M01A13] – Comandos de Manipulação de Arquivos (Parte 2)
+0. :white_check_mark: [M01A00] – Apresentação do Curso de Linux
+1. :white_check_mark: [M01A01] – Interface do Debian
+2. :white_check_mark: [M01A02] – Sistemas de arquivos
+3. :white_check_mark: [M01A03] – Dispositivos
+4. :white_check_mark: [M01A04] – Terminais
+5. :white_check_mark: [M01A05] – Interpretadores de Comandos
+6. :white_check_mark: [M01A06] – Sintaxe dos Comandos
+7. :white_check_mark: [M01A07] – Histórico dos Comandos Usados
+8. :white_check_mark: [M01A08] – Caminhos absoluto e relativo
+9. :white_check_mark: [M01A09] – Comando Ls
+10. :white_check_mark: [M01A10] – Referência global
+12. :white_check_mark: [M01A11] – Comandos de manipulação de diretórios
+13. :white_check_mark: [M01A12] – Comandos de Manipulação de Arquivos
+13. :white_check_mark: [M01A13] – Comandos de Manipulação de Arquivos (Parte 2)
 
 ### Linux – Módulo 03
 
-0. :white_check_mark: [M03A00] – Linux
+0. :white_check_mark: [M03A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M03A01] – Configurando Permissões (Parte 1)
 2. :white_check_mark: [M03A02] – Configurando Permissões (Parte 2)
 3. :white_check_mark: [M03A03] – Como usar o editor NANO
@@ -69,7 +70,7 @@ EDUARDO DA SILVA RODRIGUES
 
 ### Linux – Módulo 04
 
-0. :white_check_mark: [M04A00] – Curso de Linux
+0. :white_check_mark: [M04A00] – Apresentação do Curso de Linux
 1. :white_check_mark: [M04A01] – Comandos Diversos
 2. :white_check_mark: [M04A02] – Comandos de Memórias de Textos
 3. :white_check_mark: [M04A03] – Comandos DiversosM04A04 – Níveis do Sistema
