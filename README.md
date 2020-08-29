@@ -4,10 +4,7 @@
  
  <p align="center">  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" /></p> 
 
-### Repositório | Checklist do Curso de Linux
-
-EDUARDO DA SILVA RODRIGUES 
-
+### Checklist do Curso de Linux | EDUARDO DA SILVA RODRIGUES
 
 ## Índice
 
@@ -106,7 +103,7 @@ EDUARDO DA SILVA RODRIGUES
 
 ### Validação do Certificado Online
 
-# EDUARDO DA SILVA RODRIGUES 
+### EDUARDO DA SILVA RODRIGUES 
 
 :bookmark_tabs:  ``` link: ```   https://www.estudonauta.com/certificate-template/?certificate_code=
 
