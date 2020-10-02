@@ -1,6 +1,12 @@
-# Linux
+# Curso de Linux
 
-<h2><p align="left"><strong>Estudonauta - Curso em Vídeo - Prof Gustavo Guanabara & Ricardo Pinheiro</strong></p></h2> 
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Linux)
+
+
+## Estudonauta
+ 
+ Sou aluno e apoiador da plataforma do Estudonauta, Curso em Vídeo, criado pelo professor Gustavo Guanabara.
  
  <p align="center">  <img src=https://github.com/eduardodsr/Linux/blob/master/logo.png?raw=true" alt="imagem" width="100px" /> </p> 
 
@@ -9,6 +15,8 @@
 ## Índice 
 
 ## Curso em Vídeo (YouTube) - Curso de Linux - Primeiros Passos
+
+Professores: Gustavo Guanabara & Ricardo Pinheiro
 
 ### 2 Conceitos Fundamentais
 - 2.1 :white_check_mark: Onde o Linux pode ser usado? - Curso Linux #01
